@@ -1,0 +1,11 @@
+Model Information:
+* title:	Koenigsegg Agera RS
+* source:	https://sketchfab.com/3d-models/koenigsegg-agera-rs-a30e098257254fcfa1323f2841e26d13
+* author:	RongstadJ (https://sketchfab.com/RongstadJ)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Koenigsegg Agera RS" (https://sketchfab.com/3d-models/koenigsegg-agera-rs-a30e098257254fcfa1323f2841e26d13) by RongstadJ (https://sketchfab.com/RongstadJ) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
